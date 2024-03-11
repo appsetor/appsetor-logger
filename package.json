@@ -1,0 +1,24 @@
+{
+  "name": "appsetor-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "appsetor",
+  "license": "ISC",
+  "dependencies": {
+    "appsetor-oss": "^0.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appsetor/appsetor-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/appsetor/appsetor-logger/issues"
+  },
+  "homepage": "https://github.com/appsetor/appsetor-logger#readme",
+  "description": ""
+}
